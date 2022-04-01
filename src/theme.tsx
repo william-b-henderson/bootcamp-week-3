@@ -28,13 +28,11 @@ export const theme = extendTheme({
     },
     lightOrange: {
         100: "#FF6600",
-        200:
-        300:
-        400:
-        500:
-        600:
+        200: "#FF7112",
+        300: "#FF7C24",
+        400: "#FF8737",
+        500: "#FF9249"
     }
-
   },
 
   fonts: {
@@ -64,6 +62,54 @@ export const theme = extendTheme({
     h5: {
         fontSize: '16px',
         fontWeight: '700',
+      },
+    sub1: {
+      fontSize: '22px',
+      fontWeight: '500',
+    },
+    sub2: {
+      fontSize: '20px',
+      fontWeight: '500',
+    },
+    sub3: {
+        fontSize: '16px',
+        fontWeight: '500',
+    },
+    sub4: {
+        fontSize: '14px',
+        fontWeight: '500',
+    },
+    sub5: {
+        fontSize: '12px',
+        fontWeight: '500',
+      },
+    b1: {
+      fontSize: '16px',
+      fontWeight: '400',
+    },
+    b2: {
+      fontSize: '14px',
+      fontWeight: '400',
+    },
+    b3: {
+        fontSize: '12px',
+        fontWeight: '400',
+    },
+    b4: {
+        fontSize: '10px',
+        fontWeight: '400',
+    },
+    b5: {
+        fontSize: '14px',
+        fontWeight: '400',
+      },
+    sec1: {
+        fontSize: '12px',
+        fontWeight: '400',
+    },
+    sec2: {
+        fontSize: '10px',
+        fontWeight: '400',
       },
     },
     
